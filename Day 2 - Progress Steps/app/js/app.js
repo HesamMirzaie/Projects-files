@@ -3,11 +3,6 @@ const prev = document.getElementById("prev");
 const next = document.getElementById("next");
 const circles = document.querySelectorAll(".circle");
 
-const circle1 = document.querySelector(".circle--1");
-const circle2 = document.querySelector(".circle--2");
-const circle3 = document.querySelector(".circle--3");
-const circle4 = document.querySelector(".circle--4");
-
 let currentActive = 1;
 
 next.addEventListener("click", () => {
