@@ -36,9 +36,9 @@ body {
 .box {
   background-color: aquamarine;
   height: 300px;
-  width: 300px;
+  width: 600px;
   padding: 30px;
-  margin: 30px;
+  margin: 10px;
   font-size: 30px;
   display: flex;
   align-items: center;
